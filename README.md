@@ -12,3 +12,4 @@ The dataset is Avaliable on Kaggle ( https://www.kaggle.com/paultimothymooney/ch
 
 
 ![alt text](https://github.com/Manukhurana97/Pheumonia-_Detection_Webapp/blob/master/Output.png)
+![alt text](https://github.com/Manukhurana97/Pheumonia-_Detection_Webapp/blob/master/output1.png)
