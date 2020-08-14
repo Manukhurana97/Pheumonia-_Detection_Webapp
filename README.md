@@ -1,5 +1,5 @@
 # Pheumonia-_Detection_Webapp
-Pneumonia Detection Webapp
+Pneumonia Detection WebApp
 
 
 ![alt text](https://github.com/Manukhurana97/Pheumonia-_Detection_Webapp/blob/master/Output.png)
